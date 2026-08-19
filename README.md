@@ -17,4 +17,6 @@ Each profile includes:
 
 ## Usage
 
-Install as a Claude skill (`SKILL.md`) and invoke it (e.g. `/ugc-actor`) when you want to design or generate AI actors for UGC ads, TikTok/Instagram creatives, or social video marketing.
+Compatible with any agent that supports the Agent Skills format (`SKILL.md` with YAML frontmatter), including **Claude Code** and **OpenAI's Codex CLI**. See [INSTALL.md](INSTALL.md) for exact setup steps for each.
+
+Once installed, just ask for a UGC actor and the skill takes over — no explicit invocation required.
